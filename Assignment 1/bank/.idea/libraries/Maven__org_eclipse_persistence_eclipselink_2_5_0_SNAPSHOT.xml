@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.eclipse.persistence:eclipselink:2.5.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/persistence/eclipselink/2.5.0-SNAPSHOT/eclipselink-2.5.0-20130507.225215-1639.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/persistence/eclipselink/2.5.0-SNAPSHOT/eclipselink-2.5.0-20130507.225215-1639-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/persistence/eclipselink/2.5.0-SNAPSHOT/eclipselink-2.5.0-20130507.225215-1639-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

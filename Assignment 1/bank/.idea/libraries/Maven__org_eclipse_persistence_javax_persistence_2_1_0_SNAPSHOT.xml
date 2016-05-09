@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.eclipse.persistence:javax.persistence:2.1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/persistence/javax.persistence/2.1.0-SNAPSHOT/javax.persistence-2.1.0-20130523.120607-123.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/persistence/javax.persistence/2.1.0-SNAPSHOT/javax.persistence-2.1.0-20130523.120607-123-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/persistence/javax.persistence/2.1.0-SNAPSHOT/javax.persistence-2.1.0-20130523.120607-123-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
